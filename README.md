@@ -1,4 +1,4 @@
-### Hi there, Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 💙
+### Hi there, Welcome to my Github! 💙 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![Prophet37 Header align="center"](https://github.com/Prophet37/Prophet37/blob/main/64b3b943f5f68c654d95e7ed7593978b.gif "Header")](https://www.linkedin.com/in/ajay-calambur-40158a18a/)     
 ### Click The Infinity to reach my linkedin!🔝🔝🔝🔝🔝😄
 
