@@ -1,4 +1,4 @@
-[![Prophet37 Header]<marquee>(https://github.com/Prophet37/Prophet37/blob/main/64b3b943f5f68c654d95e7ed7593978b.gif "Header")](https://www.linkedin.com/in/ajay-calambur-40158a18a/)</marquee>     
+[![Prophet37 Header](https://github.com/Prophet37/Prophet37/blob/main/64b3b943f5f68c654d95e7ed7593978b.gif "Header")](https://www.linkedin.com/in/ajay-calambur-40158a18a/)    
 ### Click The Infinity to reach my linkedin!🔝🔝🔝🔝🔝😄
 ### Hi there, Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prophet37&show_icons=true&theme=radical)
 
 
-![Proficiences](https://img.shields.io/badge/<CODE>-<C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Proficiences](https://img.shields.io/badge/<CODE>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Proficiences](https://img.shields.io/badge/<CODE>-<C>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Proficiences](https://img.shields.io/badge/<FIELD OF INTEREST>-<Data Analysis>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Proficiences](https://img.shields.io/badge/<FIELD OF INTEREST>-<Machine Learning>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Proficiences](https://img.shields.io/badge/<FIELD OF INTEREST>-<Deep Learning>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Proficiences](https://img.shields.io/badge/CODE-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Proficiences](https://img.shields.io/badge/CODE-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Proficiences](https://img.shields.io/badge/CODE-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Proficiences](https://img.shields.io/badge/FIELDOFINTEREST-DataAnalysis-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Proficiences](https://img.shields.io/badge/FIELDOFINTEREST-MachineLearning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Proficiences](https://img.shields.io/badge/FIELDOFINTEREST-DeepLearning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
