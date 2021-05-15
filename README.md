@@ -1,4 +1,4 @@
-[![Prophet37 Header](https://raw.githubusercontent.com/Prophet37/Prophet37/64b3b943f5f68c654d95e7ed7593978b.gif "Header")](https://www.linkedin.com/in/ajay-calambur-40158a18a/)
+[![Prophet37 Header](https://raw.githubusercontent.com/Prophet37/Prophet37/64b3b943f5f68c654d95e7ed7593978b.svg "Header")](https://www.linkedin.com/in/ajay-calambur-40158a18a/)
 
 ### Hi there 👋
 
