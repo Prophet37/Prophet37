@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Transfer Learning,Concepts of LSTM
 - 👯 I’m looking to collaborate on Machine Learning, Deep Learning
 - 💬 Ask me about Exploratory Data Analysis,Machine Learning
-- 📫 How to reach me: You can message me on my email, ajay372000@gmail.com
+- 📫 How to reach me: You can reach out to me on <a href="https://www.instagram.com/calamburajay/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;  and on <a target="_blank" href="mailto:ajay372000@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 - 😄 Pronouns: He/Him
 -->
 
