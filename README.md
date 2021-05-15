@@ -2,6 +2,13 @@
 ### Click The Infinity to reach my linkedin!🔝🔝🔝🔝🔝😄
 ### Hi there, Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![Proficiences](https://img.shields.io/badge/CODE-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Proficiences](https://img.shields.io/badge/CODE-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Proficiences](https://img.shields.io/badge/CODE-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Proficiences](https://img.shields.io/badge/FIELDOFINTEREST-DataAnalysis-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Proficiences](https://img.shields.io/badge/FIELDOFINTEREST-MachineLearning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Proficiences](https://img.shields.io/badge/FIELDOFINTEREST-DeepLearning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 <!--
 **Prophet37/Prophet37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +24,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prophet37&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prophet37&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prophet37&theme=dark" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prophet37&show_icons=true&theme=dark" />
 
 
-![Proficiences](https://img.shields.io/badge/CODE-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Proficiences](https://img.shields.io/badge/CODE-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Proficiences](https://img.shields.io/badge/CODE-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Proficiences](https://img.shields.io/badge/FIELDOFINTEREST-DataAnalysis-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Proficiences](https://img.shields.io/badge/FIELDOFINTEREST-MachineLearning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![Proficiences](https://img.shields.io/badge/FIELDOFINTEREST-DeepLearning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
