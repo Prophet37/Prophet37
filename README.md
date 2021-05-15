@@ -1,7 +1,4 @@
-### Hi there, Welcome to my Github! 💙 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Prophet37 Header align="center"](https://github.com/Prophet37/Prophet37/blob/main/64b3b943f5f68c654d95e7ed7593978b.gif "Header")](https://www.linkedin.com/in/ajay-calambur-40158a18a/)     
-### Click The Infinity to reach my linkedin!🔝🔝🔝🔝🔝😄
-
+### Hi there, Welcome to my Github! 💙
 ###
 ###
 ###
@@ -12,7 +9,7 @@
 ###### - 🌱 I’m currently learning Transfer Learning,Concepts of LSTM
 ###### - 👯 I’m looking to collaborate on Machine Learning, Deep Learning
 ###### - 💬 Ask me about Exploratory Data Analysis,Machine Learning
-###### - 📫 How to reach me: You can reach out to me on <a href="https://www.instagram.com/calamburajay/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; and on <a href="mailto:ajay372000@gmail.com"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>&nbsp;&nbsp;
+###### - 📫 How to reach me: You can reach out to me on <a href="https://www.instagram.com/calamburajay/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; ,<a href="mailto:ajay372000@gmail.com"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>&nbsp;&nbsp; and on <a href="https://www.linkedin.com/in/ajay-calambur-40158a18a/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 ###### - 😄 Pronouns: He/Him
 
 
